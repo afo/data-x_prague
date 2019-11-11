@@ -1,7 +1,7 @@
 Data-X Seminar
 =======================
 
-### November 2019
+### Prague, November 2019
 
 This is the official Github repository for the Masterclass.
 
