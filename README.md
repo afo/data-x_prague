@@ -1,7 +1,7 @@
-Data-X Seminar
+Data-X MBA
 =======================
 
-### Prague, November 2019
+### Prague, October 2020
 
 This is the official Github repository for the Masterclass.
 
