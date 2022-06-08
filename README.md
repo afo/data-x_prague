@@ -1,9 +1,7 @@
 Data-X MBA
 =======================
 
-### Prague, October 2020
-
-This is the official Github repository for the Masterclass.
+This is the official Github repository for the Program
 
 <a href='https://data-x.blog'>
 <img src='https://img.shields.io/badge/Data--X-Berkeley-yellow.svg'>
